@@ -1,0 +1,17 @@
+C:\C#\proyect\proyecto.Infrastructure\obj\Debug\net7.0\proyecto.Infrastructure.csproj.AssemblyReference.cache
+C:\C#\proyect\proyecto.Infrastructure\obj\Debug\net7.0\proyecto.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\proyect\proyecto.Infrastructure\obj\Debug\net7.0\proyecto.Infrastructure.AssemblyInfoInputs.cache
+C:\C#\proyect\proyecto.Infrastructure\obj\Debug\net7.0\proyecto.Infrastructure.AssemblyInfo.cs
+C:\C#\proyect\proyecto.Infrastructure\obj\Debug\net7.0\proyecto.Infrastructure.csproj.CoreCompileInputs.cache
+C:\C#\proyect\proyecto.Infrastructure\bin\Debug\net7.0\proyecto.Infrastructure.deps.json
+C:\C#\proyect\proyecto.Infrastructure\bin\Debug\net7.0\proyecto.Infrastructure.runtimeconfig.json
+C:\C#\proyect\proyecto.Infrastructure\bin\Debug\net7.0\proyecto.Infrastructure.dll
+C:\C#\proyect\proyecto.Infrastructure\bin\Debug\net7.0\proyecto.Infrastructure.pdb
+C:\C#\proyect\proyecto.Infrastructure\bin\Debug\net7.0\proyecto.Domain.dll
+C:\C#\proyect\proyecto.Infrastructure\bin\Debug\net7.0\proyecto.Domain.pdb
+C:\C#\proyect\proyecto.Infrastructure\obj\Debug\net7.0\proyecto.Infrastructure.csproj.CopyComplete
+C:\C#\proyect\proyecto.Infrastructure\obj\Debug\net7.0\proyecto.Infrastructure.dll
+C:\C#\proyect\proyecto.Infrastructure\obj\Debug\net7.0\refint\proyecto.Infrastructure.dll
+C:\C#\proyect\proyecto.Infrastructure\obj\Debug\net7.0\proyecto.Infrastructure.pdb
+C:\C#\proyect\proyecto.Infrastructure\obj\Debug\net7.0\proyecto.Infrastructure.genruntimeconfig.cache
+C:\C#\proyect\proyecto.Infrastructure\obj\Debug\net7.0\ref\proyecto.Infrastructure.dll

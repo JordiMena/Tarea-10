@@ -1,0 +1,17 @@
+C:\CSharp\proyect\ControlDeInventario.Infrastructure\obj\Debug\net7.0\ControlDeInventario.Infrastructure.csproj.AssemblyReference.cache
+C:\CSharp\proyect\ControlDeInventario.Infrastructure\obj\Debug\net7.0\ControlDeInventario.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\proyect\ControlDeInventario.Infrastructure\obj\Debug\net7.0\ControlDeInventario.Infrastructure.AssemblyInfoInputs.cache
+C:\CSharp\proyect\ControlDeInventario.Infrastructure\obj\Debug\net7.0\ControlDeInventario.Infrastructure.AssemblyInfo.cs
+C:\CSharp\proyect\ControlDeInventario.Infrastructure\obj\Debug\net7.0\ControlDeInventario.Infrastructure.csproj.CoreCompileInputs.cache
+C:\CSharp\proyect\ControlDeInventario.Infrastructure\bin\Debug\net7.0\ControlDeInventario.Infrastructure.deps.json
+C:\CSharp\proyect\ControlDeInventario.Infrastructure\bin\Debug\net7.0\ControlDeInventario.Infrastructure.runtimeconfig.json
+C:\CSharp\proyect\ControlDeInventario.Infrastructure\bin\Debug\net7.0\ControlDeInventario.Infrastructure.dll
+C:\CSharp\proyect\ControlDeInventario.Infrastructure\bin\Debug\net7.0\ControlDeInventario.Infrastructure.pdb
+C:\CSharp\proyect\ControlDeInventario.Infrastructure\bin\Debug\net7.0\ControlDeInventario.Domain.dll
+C:\CSharp\proyect\ControlDeInventario.Infrastructure\bin\Debug\net7.0\ControlDeInventario.Domain.pdb
+C:\CSharp\proyect\ControlDeInventario.Infrastructure\obj\Debug\net7.0\ControlDeInventario.Infrastructure.csproj.CopyComplete
+C:\CSharp\proyect\ControlDeInventario.Infrastructure\obj\Debug\net7.0\ControlDeInventario.Infrastructure.dll
+C:\CSharp\proyect\ControlDeInventario.Infrastructure\obj\Debug\net7.0\refint\ControlDeInventario.Infrastructure.dll
+C:\CSharp\proyect\ControlDeInventario.Infrastructure\obj\Debug\net7.0\ControlDeInventario.Infrastructure.pdb
+C:\CSharp\proyect\ControlDeInventario.Infrastructure\obj\Debug\net7.0\ControlDeInventario.Infrastructure.genruntimeconfig.cache
+C:\CSharp\proyect\ControlDeInventario.Infrastructure\obj\Debug\net7.0\ref\ControlDeInventario.Infrastructure.dll
