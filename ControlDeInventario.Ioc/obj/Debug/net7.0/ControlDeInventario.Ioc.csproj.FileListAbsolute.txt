@@ -1,0 +1,17 @@
+C:\CSharp\proyect\ControlDeInventario.Ioc\obj\Debug\net7.0\ControlDeInventario.Ioc.csproj.AssemblyReference.cache
+C:\CSharp\proyect\ControlDeInventario.Ioc\obj\Debug\net7.0\ControlDeInventario.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\proyect\ControlDeInventario.Ioc\obj\Debug\net7.0\ControlDeInventario.Ioc.AssemblyInfoInputs.cache
+C:\CSharp\proyect\ControlDeInventario.Ioc\obj\Debug\net7.0\ControlDeInventario.Ioc.AssemblyInfo.cs
+C:\CSharp\proyect\ControlDeInventario.Ioc\obj\Debug\net7.0\ControlDeInventario.Ioc.csproj.CoreCompileInputs.cache
+C:\CSharp\proyect\ControlDeInventario.Ioc\bin\Debug\net7.0\ControlDeInventario.Ioc.deps.json
+C:\CSharp\proyect\ControlDeInventario.Ioc\bin\Debug\net7.0\ControlDeInventario.Ioc.dll
+C:\CSharp\proyect\ControlDeInventario.Ioc\bin\Debug\net7.0\ControlDeInventario.Ioc.pdb
+C:\CSharp\proyect\ControlDeInventario.Ioc\bin\Debug\net7.0\ControlDeInventario.Domain.dll
+C:\CSharp\proyect\ControlDeInventario.Ioc\bin\Debug\net7.0\ControlDeInventario.Infrastructure.dll
+C:\CSharp\proyect\ControlDeInventario.Ioc\bin\Debug\net7.0\ControlDeInventario.Infrastructure.pdb
+C:\CSharp\proyect\ControlDeInventario.Ioc\bin\Debug\net7.0\ControlDeInventario.Domain.pdb
+C:\CSharp\proyect\ControlDeInventario.Ioc\obj\Debug\net7.0\ControlDeInventario.Ioc.csproj.CopyComplete
+C:\CSharp\proyect\ControlDeInventario.Ioc\obj\Debug\net7.0\ControlDeInventario.Ioc.dll
+C:\CSharp\proyect\ControlDeInventario.Ioc\obj\Debug\net7.0\refint\ControlDeInventario.Ioc.dll
+C:\CSharp\proyect\ControlDeInventario.Ioc\obj\Debug\net7.0\ControlDeInventario.Ioc.pdb
+C:\CSharp\proyect\ControlDeInventario.Ioc\obj\Debug\net7.0\ref\ControlDeInventario.Ioc.dll

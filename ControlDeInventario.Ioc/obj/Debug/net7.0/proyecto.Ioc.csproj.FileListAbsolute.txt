@@ -1,0 +1,11 @@
+C:\C#\proyect\proyecto.Ioc\bin\Debug\net7.0\proyecto.Ioc.deps.json
+C:\C#\proyect\proyecto.Ioc\bin\Debug\net7.0\proyecto.Ioc.dll
+C:\C#\proyect\proyecto.Ioc\bin\Debug\net7.0\proyecto.Ioc.pdb
+C:\C#\proyect\proyecto.Ioc\obj\Debug\net7.0\proyecto.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\proyect\proyecto.Ioc\obj\Debug\net7.0\proyecto.Ioc.AssemblyInfoInputs.cache
+C:\C#\proyect\proyecto.Ioc\obj\Debug\net7.0\proyecto.Ioc.AssemblyInfo.cs
+C:\C#\proyect\proyecto.Ioc\obj\Debug\net7.0\proyecto.Ioc.csproj.CoreCompileInputs.cache
+C:\C#\proyect\proyecto.Ioc\obj\Debug\net7.0\proyecto.Ioc.dll
+C:\C#\proyect\proyecto.Ioc\obj\Debug\net7.0\refint\proyecto.Ioc.dll
+C:\C#\proyect\proyecto.Ioc\obj\Debug\net7.0\proyecto.Ioc.pdb
+C:\C#\proyect\proyecto.Ioc\obj\Debug\net7.0\ref\proyecto.Ioc.dll
