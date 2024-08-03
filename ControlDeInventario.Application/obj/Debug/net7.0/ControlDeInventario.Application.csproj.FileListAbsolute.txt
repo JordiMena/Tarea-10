@@ -1,0 +1,17 @@
+C:\CSharp\proyect\ControlDeInventario.Application\bin\Debug\net7.0\ControlDeInventario.Application.deps.json
+C:\CSharp\proyect\ControlDeInventario.Application\bin\Debug\net7.0\ControlDeInventario.Application.dll
+C:\CSharp\proyect\ControlDeInventario.Application\bin\Debug\net7.0\ControlDeInventario.Application.pdb
+C:\CSharp\proyect\ControlDeInventario.Application\bin\Debug\net7.0\ControlDeInventario.Domain.dll
+C:\CSharp\proyect\ControlDeInventario.Application\bin\Debug\net7.0\ControlDeInventario.Infrastructure.dll
+C:\CSharp\proyect\ControlDeInventario.Application\bin\Debug\net7.0\ControlDeInventario.Infrastructure.pdb
+C:\CSharp\proyect\ControlDeInventario.Application\bin\Debug\net7.0\ControlDeInventario.Domain.pdb
+C:\CSharp\proyect\ControlDeInventario.Application\obj\Debug\net7.0\ControlDeInventario.Application.csproj.AssemblyReference.cache
+C:\CSharp\proyect\ControlDeInventario.Application\obj\Debug\net7.0\ControlDeInventario.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\proyect\ControlDeInventario.Application\obj\Debug\net7.0\ControlDeInventario.Application.AssemblyInfoInputs.cache
+C:\CSharp\proyect\ControlDeInventario.Application\obj\Debug\net7.0\ControlDeInventario.Application.AssemblyInfo.cs
+C:\CSharp\proyect\ControlDeInventario.Application\obj\Debug\net7.0\ControlDeInventario.Application.csproj.CoreCompileInputs.cache
+C:\CSharp\proyect\ControlDeInventario.Application\obj\Debug\net7.0\ControlDeInventario.Application.csproj.CopyComplete
+C:\CSharp\proyect\ControlDeInventario.Application\obj\Debug\net7.0\ControlDeInventario.Application.dll
+C:\CSharp\proyect\ControlDeInventario.Application\obj\Debug\net7.0\refint\ControlDeInventario.Application.dll
+C:\CSharp\proyect\ControlDeInventario.Application\obj\Debug\net7.0\ControlDeInventario.Application.pdb
+C:\CSharp\proyect\ControlDeInventario.Application\obj\Debug\net7.0\ref\ControlDeInventario.Application.dll
