@@ -1,0 +1,11 @@
+C:\CSharp\proyect\ControlDeInventario.Domain\bin\Debug\net7.0\ControlDeInventario.Domain.deps.json
+C:\CSharp\proyect\ControlDeInventario.Domain\bin\Debug\net7.0\ControlDeInventario.Domain.dll
+C:\CSharp\proyect\ControlDeInventario.Domain\bin\Debug\net7.0\ControlDeInventario.Domain.pdb
+C:\CSharp\proyect\ControlDeInventario.Domain\obj\Debug\net7.0\ControlDeInventario.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\proyect\ControlDeInventario.Domain\obj\Debug\net7.0\ControlDeInventario.Domain.AssemblyInfoInputs.cache
+C:\CSharp\proyect\ControlDeInventario.Domain\obj\Debug\net7.0\ControlDeInventario.Domain.AssemblyInfo.cs
+C:\CSharp\proyect\ControlDeInventario.Domain\obj\Debug\net7.0\ControlDeInventario.Domain.csproj.CoreCompileInputs.cache
+C:\CSharp\proyect\ControlDeInventario.Domain\obj\Debug\net7.0\ControlDeInventario.Domain.dll
+C:\CSharp\proyect\ControlDeInventario.Domain\obj\Debug\net7.0\refint\ControlDeInventario.Domain.dll
+C:\CSharp\proyect\ControlDeInventario.Domain\obj\Debug\net7.0\ControlDeInventario.Domain.pdb
+C:\CSharp\proyect\ControlDeInventario.Domain\obj\Debug\net7.0\ref\ControlDeInventario.Domain.dll

@@ -1,0 +1,11 @@
+C:\C#\proyect\proyecto.Domain\bin\Debug\net7.0\proyecto.Domain.deps.json
+C:\C#\proyect\proyecto.Domain\bin\Debug\net7.0\proyecto.Domain.dll
+C:\C#\proyect\proyecto.Domain\bin\Debug\net7.0\proyecto.Domain.pdb
+C:\C#\proyect\proyecto.Domain\obj\Debug\net7.0\proyecto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\proyect\proyecto.Domain\obj\Debug\net7.0\proyecto.Domain.AssemblyInfoInputs.cache
+C:\C#\proyect\proyecto.Domain\obj\Debug\net7.0\proyecto.Domain.AssemblyInfo.cs
+C:\C#\proyect\proyecto.Domain\obj\Debug\net7.0\proyecto.Domain.csproj.CoreCompileInputs.cache
+C:\C#\proyect\proyecto.Domain\obj\Debug\net7.0\proyecto.Domain.dll
+C:\C#\proyect\proyecto.Domain\obj\Debug\net7.0\refint\proyecto.Domain.dll
+C:\C#\proyect\proyecto.Domain\obj\Debug\net7.0\proyecto.Domain.pdb
+C:\C#\proyect\proyecto.Domain\obj\Debug\net7.0\ref\proyecto.Domain.dll
